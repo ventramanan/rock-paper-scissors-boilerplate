@@ -1,0 +1,55 @@
+body{
+    background-image: url("./assets/bg.png");
+}
+#scoreeee{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    margin-left: 650px;
+}
+ #vs{
+    width:100px;
+    height: 450px;
+    margin-left: -50px;
+ } 
+#mm{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+}
+#game{
+    border: 2px solid #ffc434;
+    height: 400px;
+    width: 350px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.image img{
+   width: 75px;
+   height: 75px;
+   
+}
+#rock{
+    position: absolute;
+    top: 320px;
+    left:230px;  
+}
+#paper{
+    position: absolute;
+    top: 320px;
+    left:430px; 
+}
+#scis{
+    position: absolute;
+    top: 320px;
+    left:330px; 
+}
+.button{
+    visibility: hidden;
+}
+
+
+
+   
+

@@ -1,0 +1,33 @@
+
+body{
+    background: url("./assets/bg.png");
+}
+#imade{
+    width: 450px;
+    height: 450px;
+    margin-top: 75px;
+    margin-left: 350px;
+}
+#paper{
+    color: rgb(90, 37, 192);
+    font-weight: bold;
+    font-size: 45px;
+    margin-left: 530px;
+    position: relative;
+    top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#play{
+    width: 40px;
+    height: 40px;
+    margin-left: 100px;
+}
+#game{
+    color: white;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 970px;
+    position: relative;
+    bottom: 55px;
+    font-size: 20px;
+}
