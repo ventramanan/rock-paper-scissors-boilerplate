@@ -33,6 +33,7 @@
         computer()
     })
     
+    
     sc.addEventListener("click",() =>{
         div.innerHTML=`<img src="${scis}" height="200px">`
         player="s"
@@ -52,7 +53,7 @@
             computerr="r"
 
         }else if(random==2){
-            divv.innerHTML=`<img src="${scis}" height="200px">`
+            divv.innerHTML=`<img src="${scis}" height="200px">` 
             computerr="s"
         }else{
             divv.innerHTML=`<img src="${paper}" height="200px">`
